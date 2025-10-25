@@ -107,11 +107,3 @@ To run these projects locally, you need **Python 3.x** and the required data sci
 
 -----
 
-## 📧 Contact
-
-**Akshat Jain**
-
-  * **GitHub:** **[Link to your GitHub Profile]**
-  * **LinkedIn (Optional):** [Link to your LinkedIn Profile]
-
-Feel free to connect or send me a message about any of these projects\!
